@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "哀 戦士",
+  "base_artist": "井上大輔",
+  "createdAt": "2025-12-03T13:58:33.448000Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "哀 戦士",
+      "artist": "井上大輔",
+      "has_synced": true,
+      "path": "select/01_哀_戦士_井上大輔.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ai Senshi [哀 戦士]",
+      "artist": "Daisuke Inoue",
+      "has_synced": true,
+      "path": "select/02_Ai_Senshi_[哀_戦士]_Daisuke_Inoue.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "哀 戦士",
+      "artist": "Gackt",
+      "has_synced": true,
+      "path": "select/03_哀_戦士_Gackt.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "哀 戦士",
+      "artist": "井上大輔",
+      "has_synced": true,
+      "path": "select/04_哀_戦士_井上大輔.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "哀 戦士",
+      "artist": "Daisuke Inoue",
+      "has_synced": true,
+      "path": "select/05_哀_戦士_Daisuke_Inoue.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "哀 戦士",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/06_哀_戦士_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "哀 戦士 / with 押尾コータロー",
+      "artist": "森口博子",
+      "has_synced": true,
+      "path": "select/07_哀_戦士___with_押尾コータロー_森口博子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "哀 戦士",
+      "artist": "井上 大輔",
+      "has_synced": false,
+      "path": "select/pl_01_哀_戦士_井上_大輔.txt"
+    }
+  ]
+}
